@@ -1,0 +1,4 @@
+See file:///D:/android%20source%20coude/android-ndk-master/hello-jni/app/build/tmp/compileMips64DebugAllHello-jniSharedLibraryHello-jniMainC/output.txt for all output for compileMips64DebugAllHello-jniSharedLibraryHello-jniMainC.
+compiling hello-jni.c successful.
+
+Finished compileMips64DebugAllHello-jniSharedLibraryHello-jniMainC, see full log file:///D:/android%20source%20coude/android-ndk-master/hello-jni/app/build/tmp/compileMips64DebugAllHello-jniSharedLibraryHello-jniMainC/output.txt.
